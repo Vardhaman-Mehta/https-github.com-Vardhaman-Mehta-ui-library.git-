@@ -1,0 +1,16 @@
+
+  .ui-button {
+    padding: 10px 20px;
+    background-color: var(--primary-color);
+    color: white;
+    font-size: var(--font-size);
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .ui-button:hover {
+    background-color: var(--primary-hover);
+  }
+  
